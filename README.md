@@ -2,6 +2,7 @@
 This website is a game website, which has a bunch of *working* unblocked games on it.
 
 *Note: I have not created or own any of the games on this site.
+this is an edited clone of msn because its blocked at my school.
 
 <!--
 **msn-21/msn-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
